@@ -36,4 +36,3 @@ Our project aims to provide a simple, innovative, and effective solution to the 
 ## 📌 Future Scope
 
 More features and improvements will be added as the project develops.
-
